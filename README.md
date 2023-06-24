@@ -12,7 +12,7 @@ I'd probably focus more on the UML diagrams. I would've included more detail in 
 
 **How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
 
-I read the entire interview transcript with DriverPass. This helped me get a full idea of what the company wanted and expected, and it helped me turn it all into system design and business requirement documents. It's very important to consider the user's needs because you're designing the product for them. They are paying you and using your product. No one else is. So if there needs aren't considered, then the project can fail and lose revenue.
+I read the entire interview transcript with DriverPass. This helped me get a full idea of what the company wanted and expected, and it helped me turn it all into system design and business requirement documents. It's very important to consider the user's needs because you're designing the product for them. They are paying you and using your product. No one else is. So if the user's needs aren't considered, then the project can fail and lose revenue.
 
 **How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?**
 
