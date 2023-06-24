@@ -1,6 +1,6 @@
 **Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?**
 
-The client was DriverPass, which is a company that wants to offer driving lessons and such to students. They want to expand digitally and have an online website that students can access to make appointments, payments, view course material, etc., along with other core website features. The system also had to have support for users with various rights and roles, such as students, employees, administrators, tech support, etc.
+The client was DriverPass, which is a company that wants to offer driving lessons and such to students. They want to expand digitally and have an online website that students can access to make appointments, payments, view course material, etc., along with other core website features. The system also had to have support for users with various rights and roles, such as students, employees, administrators, tech support, etc., which had to be accounted for in my design documents.
 
 **What did you do particularly well?**
 
